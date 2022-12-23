@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanan
 - 👀 I’m interested in Front-end Web devolopment 
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
